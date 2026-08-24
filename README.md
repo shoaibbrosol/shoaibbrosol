@@ -32,7 +32,7 @@ Build e-commerce, marketplace, vehicle inspection, inventory, payment, and busin
 
 Optimize complex MySQL queries, indexes, queues, caching, and backend services.
 
-Work with AWS EC2, S3, CloudFront, SQS, OpenSearch, Linux, Nginx, and Docker.
+Work with AWS EC2, S3, CloudFront, OpenSearch, Linux, Nginx.
 
 Integrate payment gateways, WhatsApp services, authentication systems, notifications, and third-party APIs.
 
@@ -85,20 +85,12 @@ Maintained and enhanced existing web applications.
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis"/>
-      <br>Redis
-    </td>
-    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="AWS"/>
       <br>AWS
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker"/>
-      <br>Docker
-    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux"/>
       <br>Linux
@@ -157,17 +149,13 @@ Maintained and enhanced existing web applications.
       <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code"/>
       <br>VS Code
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=githubactions" width="65" height="65" alt="GitHub Actions"/>
-      <br>Actions
-    </td>
   </tr>
 </table>
 
 <h2>🚀 Backend & Cloud Expertise</h2>
 
 <p align="center">
-  Laravel • PHP • REST APIs • MySQL • Redis • Queues • SQS • OpenSearch • AWS EC2 • S3 • CloudFront • Docker • Linux • Nginx • Git
+  Laravel • PHP • REST APIs • MySQL • Redis • Queues  • OpenSearch • AWS EC2 • S3 • CloudFront  • Linux • Nginx • Git
 </p>
 
 Backend Engineering
@@ -200,15 +188,11 @@ AWS EC2 deployment
 
 Amazon S3 & CloudFront
 
-Amazon SQS
-
 OpenSearch
 
 Linux server administration
 
 Nginx configuration
-
-Docker
 
 Git/GitHub
 
@@ -344,11 +328,7 @@ Amazon S3
 
 CloudFront
 
-Amazon SQS
-
 OpenSearch
-
-Redis
 
 Laravel Queues
 
