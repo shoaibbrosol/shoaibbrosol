@@ -8,7 +8,7 @@ Senior Software Engineer | 8+ Years Experience | Laravel & PHP | Backend Enginee
 
 💻 Core expertise in Laravel, PHP, MySQL, REST APIs, backend architecture, database optimization, queues, caching, and third-party integrations.
 
-☁️ Experienced with AWS, EC2, S3, CloudFront, SQS, OpenSearch, Linux, Nginx, Docker, and Redis.
+☁️ Experienced with AWS, EC2, S3, CloudFront, OpenSearch, Linux, Nginx.
 
 ⚡ Experienced in optimizing APIs, complex MySQL queries, background jobs, media processing, and high-traffic backend applications.
 
